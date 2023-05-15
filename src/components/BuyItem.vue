@@ -42,7 +42,7 @@ export default {
 
             <div class="ckeckInfo">
                 <div class="textLayout">
-                    <p>商品名稱 : </p>
+                    <p>商品名稱 :  </p>
                     <p class="text-primary mx-2"> 聖女番茄{{ productName }}</p>
                 </div>
                 <div class="textLayout">
